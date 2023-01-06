@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vince Irving Lucas</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 
-<img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/779617186786599025/41F1A06D7D8CE3463C235B9637058FD9EDFDF583/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+<img align="center" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/779617186786599025/41F1A06D7D8CE3463C235B9637058FD9EDFDF583/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
 - 🔭 I’m currently working on [HFC](https://game.farmernft.com/)
 
