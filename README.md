@@ -4,9 +4,7 @@
 
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Currently+Freelancing;I+did+a+lot+of+website;I+have+1%2C378+contributions+on+Github" alt="Typing SVG" /></a>
-
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=1000&height=100&lines=Currently+Freelancing;I+did+a+lot+of+website;Currently+have+1%2C388%2B+contributions+on+Github" alt="Typing SVG" /></a>
 
 - 🔭 I’m currently working on [HFC](https://game.farmernft.com/)
 
