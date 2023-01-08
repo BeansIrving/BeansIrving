@@ -27,4 +27,6 @@
 </div>
 
 
+<h3 align="left">Stats: </h3>
+
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beansirving&show_icons=true&title_color=ec2ef2&text_color=ec2ef2&bg_color=05122f&hide_border=true&locale=en&layout=compact" alt="beansirving" /></p>
