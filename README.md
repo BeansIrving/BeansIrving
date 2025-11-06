@@ -6,13 +6,11 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EC2EF2&width=435&lines=Front-end+Developer;Vexel+Artist;Graphic+Designer" alt="Typing SVG" /></a>
 
-- 🔭 I’m currently working on [QuickRaven](https://game.farmernft.com/](https://quickraven.io/))
 
 - 🌱 I’m currently learning **Axios, Web3, Next.js, Animation**
 
 - 💬 Ask me about **react, next, tailwind and gsap**
 
-- 📫 How to reach me **vincelucas@skysharelabs.com**
 
 <div>
 <h3 align="left">Connect with me:</h3>
